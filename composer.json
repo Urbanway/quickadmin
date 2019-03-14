@@ -1,6 +1,6 @@
 {
-  "name": "laraveldaily/quickadmin",
-  "description": "Package for creating adminpanel in Laravel 5",
+  "name": "urbanway/quickadmin",
+  "description": "Package for creating adminpanel in Laravel 5+",
   "license": "MIT",
   "authors": [
     {
@@ -10,9 +10,13 @@
     {
       "name": "PovilasKorop",
       "email": "povilas@laraveldaily.com"
+    },
+    {
+      "name": "Flakerim Ismani",
+      "email": "flakerimi@urbanway.net"
     }
   ],
-  "version": "5.0.0",
+  "version": "5.0.1",
   "require": {
     "laravel/framework": "5.7.*",
     "laravelcollective/html": "^5.4",
